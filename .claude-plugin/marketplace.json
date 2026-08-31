@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "description": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+      "description": "This plugin connects Claude Code to your locally installed People Work application through its MCP server. Requires the People Work app installed on your computer with Agent Mode turned on.",
       "name": "people-work",
       "source": "./plugins/people-work"
     }

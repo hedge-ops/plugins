@@ -5,7 +5,7 @@
     "name": "Hedge-Ops Software, LLC.",
     "url": "https://people-work.io"
   },
-  "description": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+  "description": "This plugin connects Claude Code to your locally installed People Work application through its MCP server. Requires the People Work app installed on your computer with Agent Mode turned on.",
   "displayName": "People Work",
   "homepage": "https://people-work.io",
   "keywords": [
@@ -18,5 +18,5 @@
   "mcpServers": "./.mcp.json",
   "name": "people-work",
   "repository": "https://github.com/hedge-ops/plugins",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

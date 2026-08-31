@@ -23,9 +23,9 @@
     "developerName": "Hedge-Ops Software, LLC.",
     "displayName": "People Work",
     "logo": "./assets/people-work-icon.png",
-    "longDescription": "Run the MCP server provided by your locally installed People Work application without sending your private workspace to a hosted integration.",
+    "longDescription": "This plugin connects Codex to your locally installed People Work application through its MCP server. Requires the People Work app installed on your computer with Agent Mode turned on.",
     "privacyPolicyURL": "https://people-work.io/privacy/",
-    "shortDescription": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+    "shortDescription": "Your success depends on people",
     "termsOfServiceURL": "https://people-work.io/terms/",
     "websiteURL": "https://people-work.io"
   },
@@ -39,5 +39,5 @@
   "mcpServers": "./.mcp.json",
   "name": "people-work",
   "repository": "https://github.com/hedge-ops/plugins",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
