@@ -1,0 +1,15 @@
+{
+  "description": "Official People Work plugin marketplace.",
+  "name": "hedge-ops",
+  "owner": {
+    "email": "support@people-work.io",
+    "name": "Hedge-Ops Software, LLC."
+  },
+  "plugins": [
+    {
+      "description": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+      "name": "people-work",
+      "source": "./plugins/people-work"
+    }
+  ]
+}

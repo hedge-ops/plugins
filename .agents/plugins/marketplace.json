@@ -1,0 +1,20 @@
+{
+  "interface": {
+    "displayName": "People Work Marketplace"
+  },
+  "name": "hedge-ops",
+  "plugins": [
+    {
+      "category": "Productivity",
+      "name": "people-work",
+      "policy": {
+        "authentication": "ON_USE",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./plugins/people-work",
+        "source": "local"
+      }
+    }
+  ]
+}

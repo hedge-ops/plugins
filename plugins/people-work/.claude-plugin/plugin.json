@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "author": {
+    "email": "support@people-work.io",
+    "name": "Hedge-Ops Software, LLC.",
+    "url": "https://people-work.io"
+  },
+  "description": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+  "displayName": "People Work",
+  "homepage": "https://people-work.io",
+  "keywords": [
+    "relationships",
+    "productivity",
+    "private",
+    "mcp"
+  ],
+  "license": "LicenseRef-People-Work-Proprietary",
+  "mcpServers": "./.mcp.json",
+  "name": "people-work",
+  "repository": "https://github.com/hedge-ops/plugins",
+  "version": "1.0.0"
+}

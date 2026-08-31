@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "people": {
+      "args": [
+        "mcp"
+      ],
+      "command": "people"
+    }
+  }
+}

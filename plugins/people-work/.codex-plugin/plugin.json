@@ -1,0 +1,43 @@
+{
+  "author": {
+    "email": "support@people-work.io",
+    "name": "Hedge-Ops Software, LLC.",
+    "url": "https://people-work.io"
+  },
+  "description": "Connect Codex to the locally installed People Work application on macOS, Windows, or Linux.",
+  "homepage": "https://people-work.io",
+  "interface": {
+    "brandColor": "#78573B",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "category": "Productivity",
+    "composerIcon": "./assets/people-work-icon.png",
+    "defaultPrompt": [
+      "Help me get started with People Work",
+      "What are my upcoming actions in People Work",
+      "Help me make sure I'm prioritizing the right relationships in People Work"
+    ],
+    "developerName": "Hedge-Ops Software, LLC.",
+    "displayName": "People Work",
+    "logo": "./assets/people-work-icon.png",
+    "longDescription": "Run the MCP server provided by your locally installed People Work application without sending your private workspace to a hosted integration.",
+    "privacyPolicyURL": "https://people-work.io/privacy/",
+    "shortDescription": "Requires the People Work app installed on your computer with Agent Mode turned on.",
+    "termsOfServiceURL": "https://people-work.io/terms/",
+    "websiteURL": "https://people-work.io"
+  },
+  "keywords": [
+    "relationships",
+    "productivity",
+    "private",
+    "mcp"
+  ],
+  "license": "LicenseRef-People-Work-Proprietary",
+  "mcpServers": "./.mcp.json",
+  "name": "people-work",
+  "repository": "https://github.com/hedge-ops/plugins",
+  "version": "1.0.0"
+}
